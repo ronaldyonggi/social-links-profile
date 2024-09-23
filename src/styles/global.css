@@ -1,9 +1,14 @@
 :root {
   --color-green: hsl(75, 94%, 57%);
+
   --color-white: hsl(0, 0%, 100%);
+  --color-white-card-background: hsl(0, 0%, 80%);
+  --color-white-links: hsl(0, 0%, 56%);
+
   --color-grey700: hsl(0, 0%, 20%);
   --color-grey800: hsl(0, 0%, 12%);
   --color-grey900: hsl(0, 0%, 8%);
+
   --font-size-paragraph: 14px;
   --font-weight-normal: 400;
   --font-weight-medium: 600;

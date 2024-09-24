@@ -25,6 +25,7 @@ export default function Card() {
           <button
             onClick={toggleTheme}
             className={`${styles.toggleButton} ${themeClass}`}
+            aria-label='Toggle theme'
           >
             {isLightTheme ? (
               <FaRegMoon />
